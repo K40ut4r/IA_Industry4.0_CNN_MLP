@@ -23,7 +23,7 @@ MEZOUAHI Kaoutar
 AGOURARI Ossama
 
 **Encadrant / Professeur**  
-[Nom du Professeur]
+_(À compléter)_
 
 **Module**  
 Compétences en IA
@@ -1100,8 +1100,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 
-# Chemins des données
-chemin_base = "path/to/casting_data"
+# Chemins des données (à adapter selon votre configuration)
+chemin_base = "data/quality_control/casting_data"
 
 # Chargement des datasets
 ds_train = tf.keras.utils.image_dataset_from_directory(

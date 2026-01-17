@@ -205,7 +205,7 @@ Conv2D(32) → Conv2D(64) → Conv2D(128) → Conv2D(128) → Dense(512) → Out
 | Critère | MLP | CNN |
 |---------|-----|-----|
 | **Type données** | Capteurs (tabulaire) | Images |
-| **Complexity** | Faible | Élevée |
+| **Complexité** | Faible | Élevée |
 | **Accuracy** | 97% | 99.86% |
 | **Temps entraînement** | Secondes | ~87 min |
 | **Application** | Maintenance | Vision qualité |
